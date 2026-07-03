@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ashmeet%20Mahananda&fontSize=48&fontColor=DCE8F5&fontAlign=50&fontAlignY=35&desc=Breaking%20things%20to%20understand%20how%20to%20secure%20them&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn&theme=cobalt" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ASHMEET%20MAHANANDA&fontSize=44&fontColor=DCE8F5&fontAlign=50&fontAlignY=35&desc=BREAKING%20THINGS%20TO%20UNDERSTAND%20HOW%20TO%20SECURE%20THEM&descSize=15&descAlign=50&descAlignY=55&animation=fadeIn&theme=cobalt" width="100%" alt="header banner"/>
 
 <br/>
 
