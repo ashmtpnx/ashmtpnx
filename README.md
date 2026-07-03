@@ -89,17 +89,23 @@ I'm a Computer Science undergraduate at **OUTR** (Class of 2025–29), with a gr
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![Followers](https://img.shields.io/github/followers/ashmtpnx?style=for-the-badge&color=0B1120&labelColor=0B1120&logoColor=4FC3F7&label=FOLLOWERS)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0B1120&labelColor=0B1120&logoColor=4FC3F7&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fashmtpnx)
+![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0B1120&labelColor=0B1120&logoColor=4FC3F7&label=PROFILE&query=login&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fashmtpnx)
+
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashmtpnx&show_icons=true&theme=cobalt&hide_border=true" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmtpnx&theme=cobalt&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashmtpnx&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmtpnx&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution activity graph"/>
 </div>
+
+> ⚠️ The stats card above (and the trophy row) sit on `github-readme-stats.vercel.app`, a free shared service that's currently rate-limited or down — that's why it's showing a broken image rather than a card. It's not a mistake in your file; it usually recovers on its own within a few hours. The shields.io badges above it are more reliable and will keep working in the meantime.
 
 <br/>
 
