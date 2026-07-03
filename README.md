@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ASHMEET%20MAHANANDA&fontSize=44&fontColor=E8F4FF&fontAlignY=35&desc=BREAKING%20THINGS%20TO%20UNDERSTAND%20HOW%20TO%20SECURE%20THEM&descSize=15&descAlignY=55&descColor=4FC3F7&animation=fadeIn&theme=cobalt" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ashmeet%20Mahananda&fontSize=48&fontColor=DCE8F5&fontAlign=50&fontAlignY=35&desc=Breaking%20things%20to%20understand%20how%20to%20secure%20them&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn&theme=cobalt" width="100%" alt="header banner"/>
 
 <br/>
 
@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/ashmeetmahananda/)
-[![Instagram](https://img.shields.io/badge/Instagram-0B1120?style=for-the-badge&logo=instagram&logoColor=4FC3F7)](https://www.instagram.com/ashmtpnx/)
-[![Gmail](https://img.shields.io/badge/Gmail-0B1120?style=for-the-badge&logo=gmail&logoColor=4FC3F7)](mailto:ashmt.ofbl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmeetmahananda/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashmtpnx/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmt.ofbl@gmail.com)
 
 </div>
 
@@ -105,9 +105,9 @@ I'm a Computer Science undergraduate at **OUTR** (Class of 2025–29), with a gr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/ashmeetmahananda/)
-[![Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-0B1120?style=flat-square&logo=instagram&logoColor=4FC3F7)](https://www.instagram.com/ashmtpnx/)
-[![Gmail](https://img.shields.io/badge/-Send%20an%20Email-0B1120?style=flat-square&logo=gmail&logoColor=4FC3F7)](mailto:ashmt.ofbl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmeetmahananda/)
+[![Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ashmtpnx/)
+[![Gmail](https://img.shields.io/badge/-Send%20an%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashmt.ofbl@gmail.com)
 
 </div>
 
