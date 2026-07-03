@@ -89,7 +89,7 @@ I'm a Computer Science undergraduate at **OUTR** (Class of 2025–29), with a gr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmtpnx&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmtpnx&show_icons=true&theme=cobalt&hide_border=true" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmtpnx&theme=cobalt&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
 
