@@ -89,15 +89,17 @@ I'm a Computer Science undergraduate at **OUTR** (Class of 2025–29), with a gr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmeetmahananda&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmeetmahananda&theme=cobalt&hide_border=true" height="165" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmtpnx&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmtpnx&theme=cobalt&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeetmahananda&layout=compact&theme=cobalt&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashmtpnx&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </div>
 
-> 💡 Replace `ashmeetmahananda` above with your exact GitHub username if it differs, so the stat cards render correctly.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmtpnx&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution activity graph"/>
+</div>
 
 <br/>
 
